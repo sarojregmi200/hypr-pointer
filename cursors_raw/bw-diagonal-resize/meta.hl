@@ -1,0 +1,10 @@
+resize_algorithm = none
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = ne-resize
+define_override = sw-resize
+define_override = nesw-resize
+
+define_size = 0, dgn2.svg

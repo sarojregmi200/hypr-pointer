@@ -1,0 +1,5 @@
+name =  hypr-pointer
+version =  0.1
+description =  A pointer cursor for hyprcursor. Initally designed by @IDraques.
+
+cursors_directory = cursors

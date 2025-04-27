@@ -1,0 +1,12 @@
+resize_algorithm = none
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = w_resize  
+define_override = e_resize  
+define_override = ew_resize  
+define_override = col_resize
+
+define_size = 0, horizontal.svg
+
